@@ -1,1 +1,1 @@
-This is first file on master branch, initial content
+This is first file on master branch, after first commit
